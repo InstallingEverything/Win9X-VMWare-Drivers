@@ -17,12 +17,12 @@ Download the ISO and mount it in the VM once installed.
 
 Tested with 
 
-Microsoft Windows 95 OSR 2.0
-Microsoft Windows 95 OSR 2.1
-Microsoft Windows 95 OSR 2.5
-Microsoft Windows 98 4.1.1998
-Microsoft Windows 98 Second Edition 4.10.2222
-Windows ME 4.90.3000
+- Microsoft Windows 95 OSR 2.0
+- Microsoft Windows 95 OSR 2.1
+- Microsoft Windows 95 OSR 2.5
+- Microsoft Windows 98 4.1.1998
+- Microsoft Windows 98 Second Edition 4.10.2222
+- Microsoft Windows ME 4.90.3000
 
 USB drivers are for Windows 95 **ONLY!**
 
